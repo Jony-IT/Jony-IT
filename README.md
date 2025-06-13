@@ -26,7 +26,7 @@ Building small projects to grow my skills and understand modern development prac
 | Retrofit2        | WPF + MVVM               |
 | Dagger Hilt      | REST API Design          |
 | Clean Architecture | Dependency Injection     |
-| Unit Testing     | LINQ                     |
+
 
 ---
 
